@@ -56,8 +56,8 @@
 .plan-perk::before{content:'✓';color:var(--g);font-weight:700;flex-shrink:0}
 
 /* Quem Sou */
-.sobre-foto{width:100%;border-radius:14px;overflow:hidden;margin-bottom:20px;max-height:340px;background:var(--dark2)}
-.sobre-foto img{width:100%;height:100%;object-fit:cover;object-position:top center;display:block}
+.sobre-foto{width:100%;border-radius:14px;overflow:hidden;margin-bottom:20px;background:var(--dark2)}
+.sobre-foto img{width:100%;height:auto;display:block}
 .exp-badges{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:20px}
 .exp-b{font-size:11px;font-weight:600;padding:5px 12px;border-radius:20px;border:1px solid rgba(122,226,58,.22);color:var(--g);background:rgba(122,226,58,.06)}
 .sobre-block{margin-bottom:18px}

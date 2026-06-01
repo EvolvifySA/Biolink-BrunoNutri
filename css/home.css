@@ -32,6 +32,9 @@
 .lcard::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(122,226,58,.04),transparent);opacity:0;transition:opacity .3s}
 .lcard:hover::after{opacity:1}
 .cico{width:42px;height:42px;border-radius:11px;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0}
+.cico img{width:100%;height:100%;object-fit:cover;display:block}
+.cico svg{width:22px;height:22px;display:block}
+.cico.photo-ico{overflow:hidden;padding:0}
 .wa-ico{background:rgba(37,211,102,.12);border:1px solid rgba(37,211,102,.2)}
 .ig-ico{background:rgba(225,48,108,.1);border:1px solid rgba(225,48,108,.15)}
 .cal-ico{background:rgba(122,226,58,.1);border:1px solid rgba(122,226,58,.18)}
