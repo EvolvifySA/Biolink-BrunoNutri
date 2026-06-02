@@ -4,7 +4,7 @@
    delays e configurações globais.
 ═══════════════════════════════════ */
 const CONFIG = {
-  WA: '5583999999999',
+  WA: '5583999953846',
   typingDelayMin: 2800,
   typingDelayRandom: 400,
   mascotThinking: 'assets/mascotes/mascotepensando.svg',

@@ -103,10 +103,10 @@ cd ..
 TWILIO_ACCOUNT_SID = seu-account-sid-aqui
 TWILIO_AUTH_TOKEN = seu-auth-token-aqui
 TWILIO_WHATSAPP_FROM = whatsapp:+14155238886
-BRUNO_WHATSAPP = +5583999999999
+BRUNO_WHATSAPP = +5583999953846
 ```
 
-**Importante:** Substitua `+5583999999999` pelo número de Bruno (com país +55 e DDD)
+**Importante:** Substitua `+5583999953846` pelo número de Bruno (com país +55 e DDD)
 
 ---
 
