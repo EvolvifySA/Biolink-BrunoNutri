@@ -1,0 +1,37 @@
+# Dependências
+node_modules/
+package-lock.json
+yarn.lock
+
+# Variáveis de ambiente / segredos (Twilio, etc.)
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build / deploy
+dist/
+build/
+.vercel/
+.cache/
+
+# Vídeos grandes (servidos via YouTube/CDN, não pelo repositório)
+*.mp4
+*.MP4
+*.mov
+*.webm
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+*.swp
+*.swo
+.idea/
